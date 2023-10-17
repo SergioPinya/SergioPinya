@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Web developer who is currently studying cross-platform app development
 
 <!--
 **SergioPinya/SergioPinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
